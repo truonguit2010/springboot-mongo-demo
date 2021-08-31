@@ -1,5 +1,9 @@
 # springboot-mongo-demo
 
+## Input/Data Validation.
+1. Annotations:https://reflectoring.io/bean-validation-with-spring-boot/
+2. Programmatically: https://reflectoring.io/bean-validation-with-spring-boot/#validating-programmatically
+
 ## Fast paging with MongoDB
 1. https://scalegrid.io
 
