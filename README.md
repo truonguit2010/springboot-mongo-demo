@@ -22,6 +22,7 @@
 
 ## References
 1. https://www.mongodb.com/basics/best-practices
+2. https://strapi.io/
 
 ## Tomcat
 1. https://www.eginnovations.com/blog/tomcat-performance-tuning/
