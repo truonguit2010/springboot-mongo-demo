@@ -38,14 +38,14 @@ ssh -L 8888:127.0.0.1:8080 root@your_remote_server_address -p1234
 ```
 mvn clean package spring-boot:repackage
 ```
-Run:
+### Run:
 ```
 java -jar your.jar
 ```
-Run in background mode:
+### Run in background mode:
 
-~ The & symbol, switches the program to run in the background.
-~ The nohup utility makes the command passed as an argument run in the background even after you log out.
+- The & symbol, switches the program to run in the background.
+- The nohup utility makes the command passed as an argument run in the background even after you log out.
 ```
 nohup java -jar /web/server.jar &
 ```
