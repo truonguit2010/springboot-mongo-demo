@@ -44,9 +44,8 @@ java -jar your.jar
 ```
 Run in background mode:
 
-he & symbol, switches the program to run in the background.
-
-The nohup utility makes the command passed as an argument run in the background even after you log out.
+~ The & symbol, switches the program to run in the background.
+~ The nohup utility makes the command passed as an argument run in the background even after you log out.
 ```
 nohup java -jar /web/server.jar &
 ```
