@@ -27,3 +27,10 @@
 ## Tomcat
 1. https://www.eginnovations.com/blog/tomcat-performance-tuning/
 2. https://blogs.sap.com/2019/05/06/how-to-optimize-tomcat-server-utilization./
+
+## SSH Tunnel
+1. https://www.studytonight.com/post/how-to-setup-ssh-tunneling-in-mac-os-or-ubuntu
+
+```
+ssh -L 8888:127.0.0.1:8080 root@your_remote_server_address -p1234
+```
