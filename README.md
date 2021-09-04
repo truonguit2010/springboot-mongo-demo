@@ -34,3 +34,11 @@
 ```
 ssh -L 8888:127.0.0.1:8080 root@your_remote_server_address -p1234
 ```
+## Build JAR and Run it on Server
+```
+mvn clean package spring-boot:repackage
+```
+Run:
+```
+java -jar your.jar
+```
