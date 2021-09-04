@@ -50,3 +50,11 @@ java -jar your.jar
 ```
 nohup java -jar /web/server.jar &
 ```
+## nginx
+### Install on MAC
+1. https://arjavdave.com/2021/03/08/installing-nginx-on-mac-part-1/
+```
+brew install nginx
+nginx
+nginx -s stop
+```
