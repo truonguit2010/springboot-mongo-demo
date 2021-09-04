@@ -46,6 +46,7 @@ java -jar your.jar
 
 - The & symbol, switches the program to run in the background.
 - The nohup utility makes the command passed as an argument run in the background even after you log out.
+- https://stackoverflow.com/questions/12102270/run-java-jar-file-on-a-server-as-background-process
 ```
 nohup java -jar /web/server.jar &
 ```
